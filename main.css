@@ -1,11 +1,21 @@
-div {
+.box {
     height:100px;
     width:100px;
+    display: block;
+}
+
+#red {
     background-color:#FF0000;
-    border-radius:5px;
-    margin-bottom:5px;
+}
+
+#blue {
+    background-color:#0000FF;
+}
+/*
+#yellow {
+    background-color:#E2BE22;
 }
 
 #green {
     background-color:#008800;
-}
+}*/
