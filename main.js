@@ -9,7 +9,5 @@ $(document).ready(function() {
            width: '+=20px'
        }); 
    });
-   // $('div').click(function() {
-   //     $(this).toggle(1000);
-   // }); 
+   
 });
