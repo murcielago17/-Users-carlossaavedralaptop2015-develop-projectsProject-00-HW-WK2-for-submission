@@ -1,12 +1,12 @@
 $(document).ready(function() {
    $('div#blue').click(function() {
        $(this).animate({
-           width: '+=10px'
+           width: '+=20px'
        });
    });
    $('div#red').click(function() {
        $(this).animate({
-           width: '+=10px'
+           width: '+=20px'
        }); 
    });
    // $('div').click(function() {
